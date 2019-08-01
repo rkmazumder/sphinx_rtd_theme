@@ -12,11 +12,11 @@ from sphinx.locale import _
 from sphinx_rtd_theme import __version__
 
 
-project = u'Seismic Damage Analysis of Water Network'
+project = 'Seismic Damage Analysis of Water Network'
 slug = re.sub(r'\W+', '-', project.lower())
 version = __version__
 release = __version__
-author = u'Dave Snider, Read the Docs, Inc. & contributors'
+author = 'rkm'
 copyright = author
 language = 'en'
 
