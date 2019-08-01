@@ -1,5 +1,5 @@
 *************
-Configuration
+contributor
 *************
 
 Theme options
