@@ -1,12 +1,12 @@
 .. include:: ../README.rst
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: Table of Content
    :maxdepth: 2
 
-   installing
-   configuring
-   contributing
+   version release
+   contributor
+   info
 
 .. toctree::
    :maxdepth: 1
@@ -19,8 +19,8 @@
     :numbered:
     :caption: Demo Documentation
 
-    demo/structure
-    demo/demo
+    demo/tutorial
+    demo/examples
     demo/lists_tables
     demo/api
 
