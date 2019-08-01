@@ -1,6 +1,6 @@
 
 **************
-Lists & Tables
+Lists
 **************
 
 .. contents:: Table of Contents
