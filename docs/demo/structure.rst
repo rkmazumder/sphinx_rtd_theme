@@ -1,6 +1,6 @@
 
 *******************
-Structural Elements
+Tutorial
 *******************
 
 .. contents:: Table of Contents
