@@ -44,7 +44,7 @@ intersphinx_mapping = {
     'sphinx': ('http://www.sphinx-doc.org/en/stable/', None),
 }
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'ki r kora'
 html_theme_options = {
     'logo_only': True
 }
