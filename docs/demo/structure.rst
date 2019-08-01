@@ -41,7 +41,7 @@ Phasellus a turpis sollicitudin, bibendum massa et, imperdiet neque. Integer qui
 Integer cursus ex sed magna vehicula finibus. Proin tempus orci quis dolor tempus, nec condimentum odio vestibulum.
 Etiam efficitur sollicitudin libero, tincidunt volutpat ligula interdum sed.
 
-Document Subsubsection
+will be edited
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Donec non rutrum lorem. Aenean sagittis metus at pharetra fringilla. Nunc sapien dolor, cursus sed nisi at,
@@ -60,7 +60,7 @@ Mauris maximus viverra ante. Donec eu egestas mauris. Morbi vulputate tincidunt 
 Donec at lacus suscipit, lacinia lectus vel, sagittis lectus.
 
 *********************
-Structural Elements 2
+Mazumder
 *********************
 
 Etiam turpis ante, luctus sed velit tristique, finibus volutpat dui. Nam sagittis vel ante nec malesuada.
