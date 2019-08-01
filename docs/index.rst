@@ -1,7 +1,7 @@
 .. include:: ../README.rst
 
 .. toctree::
-   :caption: Table of Content
+   :caption: Table of Contents
    :maxdepth: 2
 
    version release
