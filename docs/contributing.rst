@@ -1,5 +1,5 @@
 ************
-Contributing
+info
 ************
 
 This project follows the Read the Docs :doc:`code of conduct
